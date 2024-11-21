@@ -1,0 +1,15 @@
+.name{
+    color: blueviolet;
+}
+.hobbies{
+    color: blue
+}
+.profile{
+    background-color: rgb(20, 247, 115);
+    color: rgb(16, 92, 53);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    padding: 5px 5px;
+}
